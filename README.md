@@ -7,4 +7,4 @@ anders mag je niet mee werken
 3. doen
 4. gedaan
 5. opnieuw
-6.weer
+6. weer
